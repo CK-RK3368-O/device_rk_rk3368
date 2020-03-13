@@ -17,3 +17,5 @@ add_lunch_combo rk3368-userdebug
 add_lunch_combo rk3368-user
 add_lunch_combo rk3368_box-userdebug
 add_lunch_combo rk3368_box-user
+add_lunch_combo m681-userdebug
+add_lunch_combo m681-user
